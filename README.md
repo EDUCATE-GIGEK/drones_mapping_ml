@@ -25,7 +25,7 @@ Develop a computer vision algorithm to allow for Autonomous gameplay in the Calv
 
 ## Funding Source
 - <a href="https://students.aip.org/sps-google-scholarship"> drone deploy </a>
-- <a href="https://ncatech.org/grants-and-funding/> National center for autonomous technology </a>
+- <a href="https://ncatech.org/grants-and-funding"/> National center for autonomous technology </a>
 
 
 
